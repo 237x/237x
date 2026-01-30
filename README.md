@@ -77,7 +77,7 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=237x&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=237x&layout=compact&theme=tokyonight" />
 </p>
 
 ---
