@@ -1,7 +1,8 @@
 # Olá 👋, pode me chamar de terror !
 
 🚀 **Engenheiro de Software Sênior | Especialista em JavaScript & .NET**  
-🇧🇷 Brasil
+
+Brasil/Curitiba/Paraná
 
 Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**.  
 Estou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
