@@ -1,4 +1,4 @@
-# Olá 👋, Eu sou terror
+# Olá 👋, pode me chamar de terror !
 
 🚀 **Engenheiro de Software Sênior | Especialista em JavaScript & .NET**  
 🇧🇷 Brasil
