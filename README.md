@@ -16,7 +16,7 @@ Estou profundamente focado em **arquitetura, performance, código limpo e soluç
   <a href="https://github.com/237x">
     <img src="https://img.shields.io/badge/GitHub-237x-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/tzrroz">
+  <a href="https://instagram.com/23_37x">
     <img src="https://img.shields.io/badge/Instagram-@tzrroz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@237ck">
