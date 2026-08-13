@@ -2,7 +2,7 @@
 
 🚀 **Engenheiro de Software Sênior | Especialista em JavaScript & .NET**  
 
-Brasil/Curitiba/Paraná
+Brasil
 
 Eu construo **produtos escaláveis**, **plataformas SaaS** e **sistemas web de alta performance**.  
 Estou profundamente focado em **arquitetura, performance, código limpo e soluções orientadas a negócios**.
